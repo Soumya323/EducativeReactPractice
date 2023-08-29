@@ -57,3 +57,13 @@ const CounterAppWithContext = () => (
 );
 
 export default CounterAppWithContext
+
+
+
+/*
+const array1 = [1, 2, 3, 4, 5];
+const reducerr = (accumulator, currentValue) => accumulator + currentValue;
+
+console.log(array1.reduce(reducerr));
+console.log(array1.reduce(reducerr, 5));
+*/
